@@ -24,11 +24,11 @@
 
         <div class="upper-row">
           <h3 class="project-title"><a href="{{ project.link }}">{{ project.title }} (go Repositary)</a></h3>
-          <div class="time">{{ projects.time }}</div>
+          <div class="project-time">{{ projects.time }}</div>
         </div><!--//upper-row-->
 
       {% if project.tagline %}
-        <br><div class="project-tagline">{{ project.tagline }}</div>
+        - <div class="project-tagline">{{ project.tagline }}</div>
       {% endif %}
 
       </div><!--//meta-->
