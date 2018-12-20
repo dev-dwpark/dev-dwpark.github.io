@@ -40,7 +40,7 @@ career-profile:
       현재 IBank DigitalWorks 에서 대리로 근무하고 있습니다.        
 
 projects-ibank:
-    title: Projects by iBank Digitalworks
+    title: Projects by iBank
     intro: >
       intro message
 
@@ -86,7 +86,7 @@ projects-private:
         tagline: "innisfree1"
 
 projects-inbiz:
-    title: Projects by Inbiz Soft
+    title: Projects by Inbiz-Soft
     intro: >
       intro message
 
