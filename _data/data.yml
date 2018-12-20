@@ -69,7 +69,7 @@ projects-ibank:
         link: "innisfree"
         tagline: "innisfree"  
 
-  projects-private:
+projects-private:
     title: Projects (Private)
     intro: >
       intro message
@@ -79,7 +79,7 @@ projects-ibank:
         link: "innisfree2"
         tagline: "innisfree1"
 
-  projects-inbiz:
+projects-inbiz:
     title: Projects (InbizSoft)
     intro: >
       intro message
@@ -89,7 +89,7 @@ projects-ibank:
         link: "innisfree2"
         tagline: "innisfree1"
       
-  projects-ssoft:
+projects-ssoft:
     title: Projects (S-Soft)
     intro: >
       intro message
