@@ -57,6 +57,22 @@ projects:
         link: "innisfree"
         tagline: "innisfree"        
 
+
+education:
+    - degree: degree
+      university: highschool
+      time: 2005-2008
+      details: |
+        desc
+          - etc
+
+    - degree: degree
+      university: highschool
+      time: 2005-2008
+      details: |
+        desc
+          - etc        
+
 experiences:
     - role: Android Developer (대리)
       time: 2017.01 - 현재
@@ -78,21 +94,6 @@ experiences:
       details: |
         desc
           - etc        
-
-education:
-    - degree: degree
-      university: highschool
-      time: 2005-2008
-      details: |
-        desc
-          - etc
-
-    - degree: degree
-      university: highschool
-      time: 2005-2008
-      details: |
-        desc
-          - etc
 
 publications:
     title: Publications
