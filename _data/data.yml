@@ -39,14 +39,23 @@ career-profile:
     summary: |
       현재 IBank DigitalWorks 에서 대리로 근무하고 있습니다.
 
+projects:
+    title: Projects
+    intro: >
+      intro message
 
-education:
-    - degree: degree
-      university: highschool
-      time: 2005-2008
-      details: |
-        desc
-          - etc
+    assignments:
+      - title: innisfree
+        link: "innisfree"
+        tagline: "innisfree"
+
+      - title: innisfree
+        link: "innisfree"
+        tagline: "innisfree"
+
+      - title: innisfree
+        link: "innisfree"
+        tagline: "innisfree"        
 
 experiences:
     - role: Android Developer (대리)
@@ -68,17 +77,22 @@ experiences:
       company: S-Soft
       details: |
         desc
+          - etc        
+
+education:
+    - degree: degree
+      university: highschool
+      time: 2005-2008
+      details: |
+        desc
           - etc
 
-projects:
-    title: Projects
-    intro: >
-      intro message
-
-    assignments:
-      - title: innisfree
-        link: "innisfree"
-        tagline: "innisfree"
+    - degree: degree
+      university: highschool
+      time: 2005-2008
+      details: |
+        desc
+          - etc
 
 publications:
     title: Publications
