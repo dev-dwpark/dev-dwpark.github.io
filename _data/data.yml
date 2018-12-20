@@ -39,23 +39,65 @@ career-profile:
     summary: |
       현재 IBank DigitalWorks 에서 대리로 근무하고 있습니다.        
 
-projects:
-    title: Projects
+projects-ibank:
+    title: Projects (iBank Digitalworks)
     intro: >
       intro message
 
     assignments:
-      - title: innisfree3 <br> (go repository)
+      - title: Forever21
         link: "innisfree2"
         tagline: "innisfree1"
 
-      - title: innisfree
+      - title: iBank Groupware
         link: "innisfree"
         tagline: "innisfree"
 
-      - title: innisfree
+      - title: Innisfree Global
+        link: "innisfree"
+        tagline: "innisfree" 
+
+      - title: S.I.Village
         link: "innisfree"
         tagline: "innisfree"
+
+      - title: Innisfree Korean
+        link: "innisfree"
+        tagline: "innisfree"
+
+      - title: Jaju 
+        link: "innisfree"
+        tagline: "innisfree"  
+
+  projects-private:
+    title: Projects (Private)
+    intro: >
+      intro message
+
+    assignments:
+      - title: Forever21
+        link: "innisfree2"
+        tagline: "innisfree1"
+
+  projects-private:
+    title: Projects (InbizSoft)
+    intro: >
+      intro message
+
+    assignments:
+      - title: Forever21
+        link: "innisfree2"
+        tagline: "innisfree1"
+      
+  projects-private:
+    title: Projects (S-Soft)
+    intro: >
+      intro message
+
+    assignments:
+      - title: Forever21
+        link: "innisfree2"
+        tagline: "innisfree1"
 
 education:
     - degree: degree
@@ -75,7 +117,7 @@ education:
 experiences:
     - role: Android Developer (대리)
       time: 2017.01 - 현재
-      company: IBANK Digitalworks
+      company: iBank Digitalworks
       details: |
         desc
           - etc
