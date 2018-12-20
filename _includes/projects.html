@@ -27,6 +27,10 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
+      {% if project.link %}
+      <br><span class="project-title"><a href="{{ project.link }}">( go Repositary )</a></span>
+      {% endif %}
+
     </div><!--//item-->
   {% endfor %}
 
