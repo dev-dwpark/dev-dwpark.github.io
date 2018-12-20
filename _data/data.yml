@@ -45,14 +45,7 @@ education:
       time: 2005-2008
       details: |
         desc
-          - etc
-
-    - degree: degree
-      university: highschool
-      time: 2005-2008
-      details: |
-        desc
-          - etc        
+          - etc    
 
 experiences:
     - role: Android Developer (대리)
