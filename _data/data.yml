@@ -39,7 +39,32 @@ career-profile:
     summary: |
       현재 IBank DigitalWorks 에서 대리로 근무하고 있습니다.        
 
+projects:
+    title: Projects
+    intro: >
+      intro message
+
+    assignments:
+      - title: innisfree
+        link: "innisfree"
+        tagline: "innisfree"
+
+      - title: innisfree
+        link: "innisfree"
+        tagline: "innisfree"
+
+      - title: innisfree
+        link: "innisfree"
+        tagline: "innisfree"
+
 education:
+    - degree: degree
+      university: highschool
+      time: 2005-2008
+      details: |
+        desc
+          - etc    
+
     - degree: degree
       university: highschool
       time: 2005-2008
@@ -68,24 +93,6 @@ experiences:
       details: |
         desc
           - etc        
-
-projects:
-    title: Projects
-    intro: >
-      intro message
-
-    assignments:
-      - title: innisfree
-        link: "innisfree"
-        tagline: "innisfree"
-
-      - title: innisfree
-        link: "innisfree"
-        tagline: "innisfree"
-
-      - title: innisfree
-        link: "innisfree"
-        tagline: "innisfree"
 
 publications:
     title: Publications
