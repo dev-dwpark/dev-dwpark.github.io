@@ -40,37 +40,43 @@ career-profile:
       현재 IBank DigitalWorks 에서 대리로 근무하고 있습니다.        
 
 projects-ibank:
-    title: Projects (iBank Digitalworks)
+    title: Projects by iBank Digitalworks
     intro: >
       intro message
 
     assignments:
       - title: Forever21
         link: "innisfree2"
+        time: 2016.05 - 2016.12
         tagline: "innisfree1"
 
       - title: iBank Groupware
         link: "innisfree"
+        time: 2016.05 - 2016.12
         tagline: "innisfree"
 
       - title: Innisfree Global
         link: "innisfree"
+        time: 2016.05 - 2016.12
         tagline: "innisfree" 
 
       - title: S.I.Village
         link: "innisfree"
+        time: 2016.05 - 2016.12
         tagline: "innisfree"
 
       - title: Innisfree Korean
         link: "innisfree"
+        time: 2016.05 - 2016.12
         tagline: "innisfree"
 
       - title: Jaju 
         link: "innisfree"
+        time: 2016.05 - 2016.12
         tagline: "innisfree"  
 
 projects-private:
-    title: Projects (Private)
+    title: Projects by Private
     intro: >
       intro message
 
@@ -80,7 +86,7 @@ projects-private:
         tagline: "innisfree1"
 
 projects-inbiz:
-    title: Projects (InbizSoft)
+    title: Projects by Inbiz Soft
     intro: >
       intro message
 
@@ -90,7 +96,7 @@ projects-inbiz:
         tagline: "innisfree1"
       
 projects-ssoft:
-    title: Projects (SSoft)
+    title: Projects by S-Soft
     intro: >
       intro message
 
