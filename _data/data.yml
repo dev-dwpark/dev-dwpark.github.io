@@ -45,9 +45,9 @@ projects:
       intro message
 
     assignments:
-      - title: innisfree <br> (go repository)
-        link: "innisfree"
-        tagline: "innisfree"
+      - title: innisfree3 <br> (go repository)
+        link: "innisfree2"
+        tagline: "innisfree1"
 
       - title: innisfree
         link: "innisfree"
