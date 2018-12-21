@@ -24,7 +24,13 @@
 
         <div class="upper-row">
           <h3 class="project-title">
+
+            {% if project.tagline %}
             <img class="thumb" src="{{ site.baseurl }}/assets/images/{{ project.thumb }}"/>
+            {% else %}
+            <img class="thumb" src="{{ site.baseurl }}/assets/images/profile.png"/>
+            {% endif %}
+
             <a href="{{ project.link }}">{{ project.title }} (go Repositary / Detail)</a>
           </h3>
           <div class="time">{{ project.time }}</div>
