@@ -46,37 +46,37 @@ projects-ibank:
 
     assignments:
       - title: Forever21
-        link: "dw_forever21"
+        link: "Forever21"
         time: 2017.08 - 현재
         thumb: forever21.png
         tagline: "Forever21 Native 개발 및 유지보수 (특정국가 미국,영국,일본,캐나다 등 에 해당하며 한국은 하이브리드 환경)"
 
       - title: iBank Groupware
-        link: "dw_ibank.groupware"
+        link: "Groupware"
         time: 2018.09 - 현재
         thumb: ibank.png
         tagline: "kotlin 과 android architecture 를 이용한 사내 모바일 그룹웨어 개발 및 구현"
 
       - title: Innisfree Global
-        link: "dw_innisfree.global"
+        link: "Innisfree.Global"
         time: 2017.02 - 현재
         thumb: innisfree_global.png
         tagline: "동남아 지역, 일본 및 홍공 등의 국가를 타겟으로한 이니스프리 어플리케이션 개발 및 운영" 
 
       - title: S.I.Village
-        link: "dw_sivillage"
+        link: "S.I.Village"
         time: 2017.06 - 2017.10
         thumb: sivillage.png
         tagline: "쇼핑몰 운영을 위한 어플리케이션 개발, 기존의 웹앱을 네이티브 환경으로 이식"
 
       - title: Innisfree Korean
-        link: "dw_innisfree.korea"
+        link: "Innisfree.Korean"
         time: 2017.11 - 2018.02
         thumb: innisfree_korean.png
         tagline: "국내 이니스프리 사용자를 위한 쇼핑몰 어플리케이션"
 
       - title: Jaju 
-        link: "dw_jaju"
+        link: "JAJU"
         time: 2017.10 - 2018.01
         thumb: jaju.png
         tagline: "국내 쇼핑몰 어플리케이션 유지보수 및 이슈대응"  
