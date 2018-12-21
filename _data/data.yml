@@ -82,11 +82,15 @@ projects-ibank:
         tagline: "국내 쇼핑몰 어플리케이션 유지보수 및 이슈대응"  
 
 projects-private:
-    title: Private
+    title: Private Projects
     intro: >
       회사에 소속되지 않은채 혹은 별개로 진행하였던 일감 목록 입니다.
 
     assignments:
+      - title: Retrofit2 Custom
+        link: "projects/private/retrofit"
+        tagline: "팀 내부에서 사내 서비스에 맞추어 활용하기 위한 Retrofit2 모듈 입니다."
+
       - title: 수목관리 시스템
         link: "projects/private/treemanage"
         tagline: "오동도(전라남도 여수시) 내 자생하는 수목관리를 위한 RFID 의 연동 개발"
@@ -106,7 +110,7 @@ projects-inbiz:
 
     assignments:
       - title: 배달 대행 솔루션
-        link: "projects/inbiz/moacall"
+        link: "projects/inbizsoft/moacall"
         tagline: "배달대행 관련 프로그램 개발, 유지보수 및 신 기능 추가"
         time: 2016.05 - 2016.12
       
