@@ -84,16 +84,19 @@ projects-private:
       - title: 수목관리 시스템
         link: "tree.management"
         tagline: "오동도(전라남도 여수시) 내 자생하는 수목관리를 위한 RFID 의 연동 개발"
+        time: -
 
     assignments:
       - title: 수경재배기 관리 어플리케이션
         link: "water.management"
         tagline: "센서로부터 대용량 재배기의 현재 상태 데이터를 실시간으로 받아와 유저에게 푸시해주고 상황대응을 할 여유를 제공해주는 어플리케이션"
+        time: -
 
     assignments:
       - title: 전자 기준점 관리 시스템
         link: "earth.management"
         tagline: "버려지고 잊혀지는 기준점에 센서를 부착하여 현재 상태 데이터 수집 및 토지 기준점의 가치 향상 도모"
+        time: -
 
 projects-inbiz:
     title: Projects by Inbiz-Soft
