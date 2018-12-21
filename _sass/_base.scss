@@ -166,6 +166,11 @@ p {
         margin-top: 0;
         margin-bottom: 20px;
     }
+    .thumb {
+        max-width: 30px;
+        border: 0px solid #fff;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    }
     .section {
         margin-bottom: 60px;
     }
