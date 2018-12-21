@@ -42,71 +42,165 @@ career-profile:
 projects-ibank:
     title: Projects by iBank
     intro: >
-      intro message
+      SI 업무를 담당하고 있으며, 대형 고객사와 실시간 이벤트 대응 및 이슈 대응, 프로젝트 개발 등의 업무를 맡고 있습니다.
 
     assignments:
       - title: Forever21
-        link: "innisfree2"
-        time: 2016.05 - 2016.12
-        tagline: "innisfree1"
+        link: "forever21"
+        time: 2017.08 - 현재
+        tagline: "Forever21 Native 개발 및 유지보수 (특정국가 미국,영국,일본,캐나다 등 에 해당하며 한국은 하이브리드 환경)"
 
       - title: iBank Groupware
-        link: "innisfree"
-        time: 2016.05 - 2016.12
-        tagline: "innisfree"
+        link: "ibank.groupware"
+        time: 2018.09 - 현재
+        tagline: "kotlin 과 android architecture 를 이용한 사내 모바일 그룹웨어 개발 및 구현"
 
       - title: Innisfree Global
-        link: "innisfree"
-        time: 2016.05 - 2016.12
-        tagline: "innisfree" 
+        link: "innisfree.global"
+        time: 2017.02 - 현재
+        tagline: "동남아 지역, 일본 및 홍공 등의 국가를 타겟으로한 이니스프리 어플리케이션 개발 및 운영" 
 
       - title: S.I.Village
-        link: "innisfree"
-        time: 2016.05 - 2016.12
-        tagline: "innisfree"
+        link: "sivillage"
+        time: 2017.06 - 2017.10
+        tagline: "쇼핑몰 운영을 위한 어플리케이션 개발, 기존의 웹앱을 네이티브 환경으로 이식"
 
       - title: Innisfree Korean
-        link: "innisfree"
-        time: 2016.05 - 2016.12
-        tagline: "innisfree"
+        link: "innisfree.korea"
+        time: 2017.11 - 2018.02
+        tagline: "국내 이니스프리 사용자를 위한 쇼핑몰 어플리케이션"
 
       - title: Jaju 
-        link: "innisfree"
-        time: 2016.05 - 2016.12
-        tagline: "innisfree"  
+        link: "jaju"
+        time: 2017.10 - 2018.01
+        tagline: "국내 쇼핑몰 어플리케이션 유지보수 및 이슈대응"  
 
 projects-private:
     title: Private
     intro: >
-      intro message
+      회사에 소속되지 않은채 혹은 별개로 진행하였던 일감 목록 입니다.
 
     assignments:
-      - title: Forever21
-        link: "innisfree2"
-        tagline: "innisfree1"
-        time: 2016.05 - 2016.12
+      - title: 수목관리 시스템
+        link: "tree.management"
+        tagline: "오동도(전라남도 여수시) 내 자생하는 수목관리를 위한 RFID 의 연동 개발"
+
+    assignments:
+      - title: 수경재배기 관리 어플리케이션
+        link: "water.management"
+        tagline: "센서로부터 대용량 재배기의 현재 상태 데이터를 실시간으로 받아와 유저에게 푸시해주고 상황대응을 할 여유를 제공해주는 어플리케이션"
+
+    assignments:
+      - title: 전자 기준점 관리 시스템
+        link: "earth.management"
+        tagline: "버려지고 잊혀지는 기준점에 센서를 부착하여 현재 상태 데이터 수집 및 토지 기준점의 가치 향상 도모"
 
 projects-inbiz:
     title: Projects by Inbiz-Soft
     intro: >
-      intro message
+      배달대행 솔루션을 개발 및 운영 하였으며, 고객 (배달기사 및 점주,점장)과 소통하여 실시간 이슈 대응 및 위치관제 등의 기술을 개발 하였습니다.
 
     assignments:
-      - title: Forever21
-        link: "innisfree2"
-        tagline: "innisfree1"
+      - title: 배달 대행 솔루션
+        link: "moacall"
+        tagline: "배달대행 관련 프로그램 개발, 유지보수 및 신 기능 추가"
         time: 2016.05 - 2016.12
       
 projects-ssoft:
     title: Projects by S-Soft
     intro: >
-      intro message
+      SI 개발을 주 업무로 삼았으며, 다양한 프로젝트와 고객 소통을 경험하며 기초를 다지는 기반이 되었습니다.
 
     assignments:
-      - title: Forever21
-        link: "innisfree2"
-        tagline: "innisfree1"
-        time: 2016.05 - 2016.12
+      - title: 피터팬의 좋은 방 구하기
+        link: "peterpan"
+        tagline: "부동산 매물 및 토지 거래, 유저 커뮤니티 어플리케이션"
+        time: 2015.03 - 2015.06
+
+    assignments:
+      - title: 밀리언애드
+        link: "millonad"
+        tagline: "현 밀리언써클, 경품 추첨 및 사용자 통계, 광고성 리워드 제공 어플리케이션"
+        time: 2016.02 - 2016.05
+
+    assignments:
+      - title: SNS 메신저 및 커뮤니티 채팅 앱 (비밀계약)
+        link: "snsprivate"
+        tagline: "SNS 어플리케이션, ble 비콘을 활용한 근거리/장거리 대상 메신저 앱"
+        time: 2015.08 - 2016.02
+
+    assignments:
+      - title: 잡월드
+        link: "jobworld"
+        tagline: "구인/구직 직업 소개 및 커뮤니티 어플리케이션"
+        time: 2015.06 - 2015.08
+
+
+    assignments:
+      - title: IPCC FMC
+        link: "ipcc.fmc"
+        tagline: "보이스톡을 이용한 LG U+ 사내의 고객 상담관리 어플리케이션"
+        time: 2014.11 - 2015.02
+
+    assignments:
+      - title: 마이골통
+        link: "my.goltong"
+        tagline: "골프 정보 제공 및 회원 커뮤니티 제공 어플리케이션"
+        time: 2014.10 - 2015.01
+
+    assignments:
+      - title: 빠방
+        link: "bbabang"
+        tagline: "부동산 거래 어플리케이션"
+        time: 2015.04 - 2015.05
+
+    assignments:
+      - title: 셋방
+        link: "setbang"
+        tagline: "부동산 거래 어플리케이션"
+        time: 2015.04 - 2015.05
+
+    assignments:
+      - title: 날로먹는 한자
+        link: "nalo"
+        tagline: "한자 교육관련 어플리케이션"
+        time: 2015.01 - 2015.02    
+
+    assignments:
+      - title: 애드타임
+        link: "adtime"
+        tagline: "잠금화면 (커스텀 락스크린) 관련 리워드 제공 어플리케이션"
+        time: 2014.11 - 2015.01
+
+    assignments:
+      - title: 포인트 빙고
+        link: "point.bingo"
+        tagline: "적립된 포인트를 이용한 음식 배달 및 사용 어플리케이션"
+        time: 2014.09 - 2014.11
+
+    assignments:
+      - title: 나와 놀자 (셋톱박스, 매장용 DP ver)
+        link: "nanol"
+        tagline: "매장용 대형 스크림 홍보물 출력 어플리케이션"
+        time: 2014.07 - 2014.09
+
+    assignments:
+      - title: 힐링도형 심리, 오늘과 내일
+        link: "tnt"
+        tagline: "심리 테스트 어플리케이션"
+        time: 2014.06 - 2014.07
+
+    assignments:
+      - title: 충전요
+        link: "charge.yo"
+        tagline: "편의점 배터리 충전 관련 어플리케이션"
+        time: 2014.09 - 2014.09
+
+    assignments:
+      - title: 애드썸
+        link: "addssum"
+        tagline: "리워드 어플리케이션"
+        time: 2014.09 - 2014.09    
 
 education:
     - degree: degree
