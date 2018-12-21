@@ -17,21 +17,24 @@
   {% endif %}
 
   {% for project in projects.assignments %}
+
     <div class="item">
 
-      <span class="project-title">
-        <a href="{{ project.link }}">{{ project.title }}</a>
-      </span>
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="project-title"><a href="{{ project.link }}">{{ project.title }} (go Repositary)</a></h3>
+          <div class="time">{{ project.time }}</div>
+        </div><!--//upper-row-->
+
+      </div><!--//meta-->
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
-
-      {% if project.link %}
-      <br><span class="project-title"><a href="{{ project.link }}">( go Repositary )</a></span>
+        <div class="company">{{ project.tagline }}</div><br>
       {% endif %}
 
     </div><!--//item-->
+
   {% endfor %}
 
 </section><!--//section-->

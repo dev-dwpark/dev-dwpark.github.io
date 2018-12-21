@@ -76,7 +76,7 @@ projects-ibank:
         tagline: "innisfree"  
 
 projects-private:
-    title: Projects by Private
+    title: Private
     intro: >
       intro message
 
@@ -84,6 +84,7 @@ projects-private:
       - title: Forever21
         link: "innisfree2"
         tagline: "innisfree1"
+        time: 2016.05 - 2016.12
 
 projects-inbiz:
     title: Projects by Inbiz-Soft
@@ -94,6 +95,7 @@ projects-inbiz:
       - title: Forever21
         link: "innisfree2"
         tagline: "innisfree1"
+        time: 2016.05 - 2016.12
       
 projects-ssoft:
     title: Projects by S-Soft
@@ -104,6 +106,7 @@ projects-ssoft:
       - title: Forever21
         link: "innisfree2"
         tagline: "innisfree1"
+        time: 2016.05 - 2016.12
 
 education:
     - degree: degree
