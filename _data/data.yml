@@ -84,19 +84,14 @@ projects-private:
       - title: 수목관리 시스템
         link: "tree.management"
         tagline: "오동도(전라남도 여수시) 내 자생하는 수목관리를 위한 RFID 의 연동 개발"
-        time: -
 
-    assignments:
       - title: 수경재배기 관리 어플리케이션
         link: "water.management"
         tagline: "센서로부터 대용량 재배기의 현재 상태 데이터를 실시간으로 받아와 유저에게 푸시해주고 상황대응을 할 여유를 제공해주는 어플리케이션"
-        time: -
 
-    assignments:
       - title: 전자 기준점 관리 시스템
         link: "earth.management"
         tagline: "버려지고 잊혀지는 기준점에 센서를 부착하여 현재 상태 데이터 수집 및 토지 기준점의 가치 향상 도모"
-        time: -
 
 projects-inbiz:
     title: Projects by Inbiz-Soft
@@ -120,86 +115,71 @@ projects-ssoft:
         tagline: "부동산 매물 및 토지 거래, 유저 커뮤니티 어플리케이션"
         time: 2015.03 - 2015.06
 
-    assignments:
       - title: 밀리언애드
         link: "millonad"
         tagline: "현 밀리언써클, 경품 추첨 및 사용자 통계, 광고성 리워드 제공 어플리케이션"
         time: 2016.02 - 2016.05
 
-    assignments:
       - title: SNS 메신저 및 커뮤니티 채팅 앱 (비밀계약)
         link: "snsprivate"
         tagline: "SNS 어플리케이션, ble 비콘을 활용한 근거리/장거리 대상 메신저 앱"
         time: 2015.08 - 2016.02
 
-    assignments:
       - title: 잡월드
         link: "jobworld"
         tagline: "구인/구직 직업 소개 및 커뮤니티 어플리케이션"
         time: 2015.06 - 2015.08
 
-
-    assignments:
       - title: IPCC FMC
         link: "ipcc.fmc"
         tagline: "보이스톡을 이용한 LG U+ 사내의 고객 상담관리 어플리케이션"
         time: 2014.11 - 2015.02
 
-    assignments:
       - title: 마이골통
         link: "my.goltong"
         tagline: "골프 정보 제공 및 회원 커뮤니티 제공 어플리케이션"
         time: 2014.10 - 2015.01
 
-    assignments:
       - title: 빠방
         link: "bbabang"
         tagline: "부동산 거래 어플리케이션"
         time: 2015.04 - 2015.05
 
-    assignments:
       - title: 셋방
         link: "setbang"
         tagline: "부동산 거래 어플리케이션"
         time: 2015.04 - 2015.05
 
-    assignments:
       - title: 날로먹는 한자
         link: "nalo"
         tagline: "한자 교육관련 어플리케이션"
         time: 2015.01 - 2015.02    
 
-    assignments:
       - title: 애드타임
         link: "adtime"
         tagline: "잠금화면 (커스텀 락스크린) 관련 리워드 제공 어플리케이션"
         time: 2014.11 - 2015.01
 
-    assignments:
       - title: 포인트 빙고
         link: "point.bingo"
         tagline: "적립된 포인트를 이용한 음식 배달 및 사용 어플리케이션"
         time: 2014.09 - 2014.11
 
-    assignments:
       - title: 나와 놀자 (셋톱박스, 매장용 DP ver)
         link: "nanol"
         tagline: "매장용 대형 스크림 홍보물 출력 어플리케이션"
         time: 2014.07 - 2014.09
 
-    assignments:
       - title: 힐링도형 심리, 오늘과 내일
         link: "tnt"
         tagline: "심리 테스트 어플리케이션"
         time: 2014.06 - 2014.07
 
-    assignments:
       - title: 충전요
         link: "charge.yo"
         tagline: "편의점 배터리 충전 관련 어플리케이션"
         time: 2014.09 - 2014.09
 
-    assignments:
       - title: 애드썸
         link: "addssum"
         tagline: "리워드 어플리케이션"
