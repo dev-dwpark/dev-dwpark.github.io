@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 피터팬의 좋은 방 구하기
 
-You can use the [editor on GitHub](https://github.com/pppdw/Forever21/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Naver 까페, 피터팬의 좋은 방 구하기의 안드로이드 어플리케이션 버전 입니다.
 
 ### Markdown
 
