@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 밀리언 애드 (현 밀리언 써클)
 
-You can use the [editor on GitHub](https://github.com/pppdw/Forever21/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![millionad.png-1](./image/millionad.png-1.png)
+![millionad.png-2](./image/millionad.png-2.png)
+![millionad.png-3](./image/millionad.png-3.png)
+![millionad.png-4](./image/millionad.png-4.png)
+![millionad.png-5](./image/millionad.png-5.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 개요
+- 퀴즈쇼 및 광고응모로 보상을 받는 리워드형 어플리케이션 입니다. 
 
-### Markdown
+### 소속
+- S-Soft
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 개발기간
+- 2016.02 ~ 2016.05
 
-```markdown
-Syntax highlighted code block
+### 참여도 (%)
+- Android (100%)
+- Admin Page (php) (100%)
+- API (MySql, Xml) (100%)
+- ServerSetting (Cafe23 Host, AutoSet, Apache Tomcat)
 
-# Header 1
-## Header 2
-### Header 3
+### 개발언어
+- Java
+- Php
+- MySql
+- JavaScript
 
-- Bulleted
-- List
+### 개발툴
+- AndroidStudio
+- Autoset (Server)
+- Aptana
+- Sequal Pro
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pppdw/Forever21/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 개발환경
+- Mac OS
