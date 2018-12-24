@@ -1,6 +1,8 @@
 ## 피터팬의 좋은 방 구하기
 
 ### 개요
+![peterpan](https://user-images.githubusercontent.com/16589475/50388527-71d9de00-075c-11e9-8b0b-e98120fe897a.png)
+
 - Naver 까페, 피터팬의 좋은 방 구하기의 안드로이드 어플리케이션 버전 입니다.
 REST API 를 기반으로 특정 부위에 대한 MarkerCluster, 바이너리 데이터 다중 업로드 및 제어, 사진 필터링 등의 기술이 적용되었습니다.
 
