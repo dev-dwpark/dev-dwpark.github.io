@@ -1,11 +1,11 @@
 ## S.I.Village
 
-![siv-1](./image/siv-1.jpeg)
-![siv-2](./image/siv-2.jpeg)
-![siv-3](./image/siv-3.jpeg)
-![siv-4](./image/siv-4.jpeg)
-![siv-5](./image/siv-5.jpeg)
-![siv-6](./image/siv-6.jpeg)
+![siv-1](./image/siv-1.jpeg){: width="13%"}
+![siv-2](./image/siv-2.jpeg){: width="13%"}
+![siv-3](./image/siv-3.jpeg){: width="13%"}
+![siv-4](./image/siv-4.jpeg){: width="13%"}
+![siv-5](./image/siv-5.jpeg){: width="13%"}
+![siv-6](./image/siv-6.jpeg){: width="13%"}
 
 ### 개요
 - 쇼핑몰 운영을 위한 쇼핑 어플리케이션 입니다.
