@@ -16,9 +16,10 @@ Gitlab, Redmine, Fabric 등을 사용하고 있으며 사용자 분석및 행위
 - 필요에 따른 특정부위만 다른 패턴으로 개발을 진행함으로써 유지보수성 향상
 - 다수의 fragment 제어
 - 초성 검색등의 반영
+- 메모리 핸들링
 
 ### 소속
-- IBank digitalworks
+- IBank Digitalworks
 
 ### 개발기간
 - 2017.11 ~ 2018.02
