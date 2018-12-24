@@ -1,7 +1,7 @@
 ## 피터팬의 좋은 방 구하기
 
 ### 개요
-![peterpan1](./projects/ssoft/peterpan/image/peterpan1.png)
+![peterpan1](./image/peterpan1.png)
 ![peterpan2](./projects/ssoft/peterpan/image/peterpan2.png)
 ![peterpan3](./projects/ssoft/peterpan/image/peterpan3.png)
 ![peterpan4](./projects/ssoft/peterpan/image/peterpan4.png)
