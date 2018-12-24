@@ -88,9 +88,9 @@ projects-private:
 
     assignments:
       - title: Retrofit2 Custom
-        link: "projects/private/retrofit"
+        link: "/Custom-Retrofit2"
         repository: True
-        tagline: "팀 내부에서 사내 서비스에 맞추어 활용하기 위한 Retrofit2 모듈 입니다."
+        tagline: "대중적인 Request module을 보다 가독성있고 편리한 사용을 위해 개인적으로 제작한 체인 방식으로 재 설계된 Retrofit2 모듈 입니다."
 
       - title: 수목관리 시스템
         link: "projects/private/treemanage"
