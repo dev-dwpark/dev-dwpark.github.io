@@ -16,7 +16,7 @@ REST API 를 기반으로 특정 부위에 대한 MarkerCluster, 바이너리 �
 - Android (100%)
 - Admin Page (php) (100%)
 - API (MySql, Xml) (100%)
-- ServerSetting (AutoSet, Apache Tomcat)
+- ServerSetting (Cafe23 Host, AutoSet, Apache Tomcat)
 
 ### 개발언어
 - Java
