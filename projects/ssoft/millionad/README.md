@@ -5,6 +5,9 @@
 ![millionad.png-3](./image/millionad.png-3.png)
 ![millionad.png-4](./image/millionad.png-4.png)
 ![millionad.png-5](./image/millionad.png-5.png)
+![millionad.png-6](./image/millionad.png-6.png)
+![millionad.png-7](./image/millionad.png-7.png)
+![millionad.png-8](./image/millionad.png-8.png)
 
 ### 개요
 - 퀴즈쇼 및 광고응모로 보상을 받는 리워드형 어플리케이션 입니다. 
