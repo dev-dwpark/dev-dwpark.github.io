@@ -1,35 +1,34 @@
 ## 피터팬의 좋은 방 구하기
 
-Naver 까페, 피터팬의 좋은 방 구하기의 안드로이드 어플리케이션 버전 입니다.
+# 개요
+- Naver 까페, 피터팬의 좋은 방 구하기의 안드로이드 어플리케이션 버전 입니다.
+REST API 를 기반으로 특정 부위에 대한 MarkerCluster, 바이너리 데이터 다중 업로드 및 제어, 사진 필터링 등의 기술이 적용되었습니다.
 
-### Markdown
+# 소속
+- S-soft
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 개발기간
+- 2015.03 ~ 2015.06
 
-```markdown
-Syntax highlighted code block
+# 참여도 (%)
+- Android (100%)
+- Admin Page (php) (100%)
+- API (MySql, Xml) (100%)
+- ServerSetting (AutoSet, Apache Tomcat)
 
-# Header 1
-## Header 2
-### Header 3
+# 개발언어
+- Java
+- Php
+- MySql
+- JavaScript
+- AQuery
 
-- Bulleted
-- List
+# 개발툴
+- AndroidStudio
+- Autoset (Server)
+- Aptana
+- HeidiSQL
+- SQLGate
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pppdw/Forever21/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 개발환경
+- Window7
