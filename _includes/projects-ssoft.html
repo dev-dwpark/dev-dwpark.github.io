@@ -31,7 +31,12 @@
             <img class="thumb" src="{{ site.baseurl }}/assets/images/default_launcher.png"/>
             {% endif %}
 
+            {% if project.repository %}
+            <a href="{{ project.link }}"> | {{ project.title }} (go Repository)</a>
+            {% else %}
             <a href="{{ project.link }}"> | {{ project.title }} (go Detail)</a>
+            {% endif %}
+
           </h3>
           <div class="time">{{ project.time }}</div>
         </div><!--//upper-row-->
