@@ -50,18 +50,31 @@
       {% if project.link == 'projects/ibank/forever21' %}
       <b>forever21 {{project.link}}</b>
       <iframe width="100%" height="1050px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% elif project.link == 'projects/ibank/groupware' %}
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/groupware' %}
       <b>groupware {{project.link}}</b>
       <iframe width="100%" height="700px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% else if project.link == 'projects/ibank/sivillage' %}
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/inniglobal' %}
+      <b>jaju {{project.link}}</b>
+      <iframe width="100%" height="1200px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/innikorea' %}
+      <b>jaju {{project.link}}</b>
+      <iframe width="100%" height="1200px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/sivillage' %}
       <b>siv {{project.link}}</b>
       <iframe width="100%" height="900px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% else if project.link == 'projects/ibank/jaju' %}
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/jaju' %}
       <b>jaju {{project.link}}</b>
       <iframe width="100%" height="900px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% else%}
-      <b>else {{project.link}}</b>
-      <iframe width="100%" height="1200px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
       {% endif %}
 
     </div><!--//item-->
