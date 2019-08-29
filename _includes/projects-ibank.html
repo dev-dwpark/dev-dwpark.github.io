@@ -48,14 +48,19 @@
       {% endif %}
 
       {% if project.link == 'projects/ibank/forever21' %}
+      <b>forever21</b>
       <iframe width="100%" height="1050px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% elseif project.link == 'projects/ibank/groupware' %}
+      {% else if project.link == 'projects/ibank/groupware' %}
+      <b>groupware</b>
       <iframe width="100%" height="700px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% elseif project.link == 'projects/ibank/sivillage' %}
+      {% else if project.link == 'projects/ibank/sivillage' %}
+      <b>siv</b>
       <iframe width="100%" height="900px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% elseif project.link == 'projects/ibank/jaju' %}
+      {% else if project.link == 'projects/ibank/jaju' %}
+      <b>jaju</b>
       <iframe width="100%" height="900px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
       {% else%}
+      <b>else</b>
       <iframe width="100%" height="1200px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
       {% endif %}
 
