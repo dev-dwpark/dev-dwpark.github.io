@@ -32,9 +32,9 @@
             {% endif %}
 
             {% if project.repository %}
-            <a href="{{ project.link }}"> |ㅁ {{ project.title }} <b>(go Repository)</b></a>
+            <a href="{{ project.link }}"> | {{ project.title }} <b>(go Repository)</b></a>
             {% else %}
-            <a href="{{ project.link }}"> |ㅁ {{ project.title }} (go Detail)</a>
+            <a href="{{ project.link }}"> | {{ project.title }} (go Detail)</a>
             {% endif %}
 
           </h3>
@@ -48,14 +48,14 @@
       {% endif %}
 
       {% if project.link == 'projects/ibank/forever21' %}
-      <iframe width="100%" height="1000px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% else if project.link == 'projects/ibank/groupware'%}
-      <iframe width="100%" height="600px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% else if project.link == 'projects/ibank/sivillage' %}
+      <iframe width="100%" height="1050px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% elif project.link == 'projects/ibank/groupware' %}
+      <iframe width="100%" height="700px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% elif project.link == 'projects/ibank/sivillage' %}
       <iframe width="100%" height="900px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% else if project.link == 'projects/ibank/jaju' %}
+      {% elif project.link == 'projects/ibank/jaju' %}
       <iframe width="100%" height="900px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
-      {% else %}
+      {% el%}
       <iframe width="100%" height="1200px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
       {% endif %}
 
