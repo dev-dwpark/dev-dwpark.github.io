@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Forever21
 
-You can use the [editor on GitHub](https://github.com/pppdw/Forever21/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![inni-global-1](./image/forever21-1.jpeg){: width="14%" height="100%"}
+![inni-global-2](./image/forever21-2.jpeg){: width="14%" height="100%"}
+![inni-global-3](./image/forever21-3.jpeg){: width="14%" height="100%"}
+![inni-global-4](./image/forever21-4.jpeg){: width="14%" height="100%"}
+![inni-global-5](./image/forever21-5.jpeg){: width="14%" height="100%"}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 개요
+- 
+Forever21 쇼핑 몰 어플리케이션 입니다.
+다수의 국가를 오픈/런칭 하였으며 iOS 의 라이프사이클을 그대로 구현하기 위한 프래그먼트 사이클을 자체 구현 하는 등의 기술을 사용하였습니다.
+오픈 국가는 현재도 지속적으로 추가되고 있으며 형상관리는 GitLab 을 이용하고 있고 Redmine (+fabric) 으로 고객협업과 유지보수를 겸하고 있습니다.
 
-### Markdown
+### 특이사항
+- 계속적인 국가 추가에 따른 패턴제작
+- 앱 위변조 방지
+- 다국가 지원 (로컬라이즈 텍스트는 내부 삽입)
+- 다수의 스크립트 인터페이스 구현
+- ButterKnife + Dagger2
+- MVVM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 소속
+- IBank Digitalworks
 
-```markdown
-Syntax highlighted code block
+### 개발기간
+- 2017.08 ~ 현재
 
-# Header 1
-## Header 2
-### Header 3
+### 참여도
+- Android
 
-- Bulleted
-- List
+### 개발언어
+- Java
+- Kotlin
+- JavaScript
 
-1. Numbered
-2. List
+### 개발툴
+- AndroidStudio
+- Charles
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pppdw/Forever21/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 개발환경
+- Mac OS
