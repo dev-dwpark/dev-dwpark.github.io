@@ -28,26 +28,24 @@ sidebar:
       - item: Fishing
         link:
 
-      - item: Game
-        link:
-
       - item: Bicycle
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      현재 IBank DigitalWorks 에서 대리로 근무하고 있습니다.        
+      안녕하세요, 현재 IBank DigitalWorks 에서 대리로 근무하고 7년차 개발자, 박 대웅 입니다.
+      업무에 있어 +1 이상이 될 지 언정, -1은 절대 되지 않는다고 자신있게 말씀 드릴 수 있습니다.        
 
 projects-ibank:
     title: Projects by IBank
     intro: >
-      SI 업무를 담당하고 있으며, 대형 고객사와 실시간 이벤트 대응 및 이슈 대응, 프로젝트 개발 등의 업무를 맡고 있습니다.
+      안드로이드 앱 개발 담당 및 PM 업무를 담당하고 있으며, 대형 고객사와 실시간 이벤트 대응 및 이슈 대응, 프로젝트 개발 등을 진행하고 있습니다.
 
     assignments:
       - title: Forever21
         link: "projects/ibank/forever21"
-        time: 2017.08 - 현재
+        time: 2017.08 - 2019.01
         thumb: forever21.png
         tagline: "Forever21 Native 개발 및 유지보수 (특정국가 미국,영국,일본,캐나다 등 에 해당하며 한국은 하이브리드 환경)"
 
@@ -185,51 +183,49 @@ projects-ssoft:
         time: 2014.09 - 2014.09    
 
 education:
-    - degree: degree
-      university: highschool
-      time: 2005-2008
+    - degree: 순천대학교
+      university: university
+      time: 2008-
       details: |
-        desc
-          - etc    
+        학사
+          - 졸업예정
 
-    - degree: degree
+    - degree: 야탑고등학교
       university: highschool
       time: 2005-2008
-      details: |
-        desc
-          - etc    
+      details:    
 
 experiences:
     - role: Android Developer (대리)
       time: 2017.01 - 현재
       company: IBank Digitalworks
       details: |
-        desc
-          - etc
+        안드로이드 개발 및 운영 담당
 
     - role: Android Developer (대리)
       time: 2016.05 - 2016.12
       company: InbizSoft
       details: |
-        desc
-          - etc
+        솔루션 개발 담당
 
     - role: Android Developer (대리)
       time: 2014.06 - 2016.05
       company: S-Soft
       details: |
-        desc
-          - etc        
+        안드로이드 및 서버사이드 개발 담당         
 
 publications:
     title: Publications
-    intro: |
-      hummmm
+    intro:
 
     papers:
-      - title: title
-        authors: authors
-        conference: conference        
+      - title: LED 및 QR 코드를 이용한 다기능 전자기준점 시스템의 성능비교
+        authors: 박 대웅 외 4명
+        conference: 한국전자통신학회 (2013.06)
+
+      - title: 객체지향 설계 모델링을 이용한 LED기반의 피라미드형 수경 재배 관리 시스템 설계
+        authors: 박 대웅 외 4명
+        conference: 한국전자통신학회 (2013.11)       
 
 skills:
     title: Skills &amp; Proficiency
@@ -237,6 +233,9 @@ skills:
     toolset:
       - name: Java (or Android)
         level: 70%
+
+      - name: kotlin
+        level: 50%
 
       - name: Json & Xml
         level: 50%
