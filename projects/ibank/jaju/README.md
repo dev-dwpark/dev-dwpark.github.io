@@ -3,7 +3,7 @@
 ![siv-1](./image/jaju-1.jpeg){: width="16%" height="100%"}
 ![siv-2](./image/jaju-2.jpeg){: width="16%" height="100%"}
 ![siv-3](./image/jaju-3.jpeg){: width="16%" height="100%"}
-![siv-4](./image/jaju4.jpeg){: width="16%" height="100%"}
+![siv-4](./image/jaju-4.jpeg){: width="16%" height="100%"}
 
 ### 개요
 - 쇼핑몰 운영을 위한 쇼핑 어플리케이션 입니다.
