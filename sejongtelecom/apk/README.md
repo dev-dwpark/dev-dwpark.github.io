@@ -1,11 +1,5 @@
 ## Forever21
 
-![inni-global-1](./image/forever21-1.jpeg){: width="14%" height="100%"}
-![inni-global-2](./image/forever21-2.jpeg){: width="14%" height="100%"}
-![inni-global-3](./image/forever21-3.jpeg){: width="14%" height="100%"}
-![inni-global-4](./image/forever21-4.jpeg){: width="14%" height="100%"}
-![inni-global-5](./image/forever21-5.jpeg){: width="14%" height="100%"}
-
 ### 개요
 - 
 Forever21 쇼핑 몰 어플리케이션 입니다.
