@@ -1,5 +1,4 @@
-## [Wallavu 1.0.0 Download (Click) ](./wallavu_debug_1.0.0.apk) 
-
+## [Wallavu 1.0.0 Download (Click) ](https://dl.dropbox.com/s/8ynpfaffkjoj9aj/wallavu_1.0.0.apk) 
 
 
 ### 배포 일시
