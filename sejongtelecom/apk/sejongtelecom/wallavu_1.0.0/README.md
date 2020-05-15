@@ -1,4 +1,4 @@
-## Wallavu 1.0.0
+## [Wallavu 1.0.0](blog.naver.com/tpgns8488) 
 
 ![inni-global-1](./wallavu_debug_1.0.0.apk){: width="14%" height="100%"}
 
