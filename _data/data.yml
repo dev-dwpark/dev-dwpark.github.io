@@ -35,7 +35,7 @@ projects-wallavu:
 
     assignments:
       - title: Wallavu 1.0.0
-        link: "sejongtelecom/wallavu_1.0.0"
+        link: "wallavu/1.0.0"
         time: 2020.05.15
         thumb: wallavu.png
         tagline: 초안 배포
