@@ -35,10 +35,10 @@ projects-wallavu:
 
     assignments:
       - title: Wallavu 1.0.0
-        link: "projects/ibank/forever21"
+        link: "projects/sejongtelecom/wallavu_1.0.0"
         time: 2020.05.15
         thumb: wallavu.png
-        tagline: 버그 및 이슈 수정<br>
+        tagline: 초안 배포
 
 footer: >
     박 대웅 (Park DaeWoong) 01068006273 pppdw@sejongtelecom.net
