@@ -12,11 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: pppdw@sejongtelecom.net
-    phone: 010 6800 6274
-    website: 
+    email: dwpark.dev@gmail.com
+    phone: 010 6800 6273
+    website: pppdwer.tistory.com #do not add http://
     linkedin: 
-    github:
+    github: dev-dwpark
     gitlab: 
     bitbucket:
     twitter: 
@@ -247,4 +247,4 @@ skills:
         level: 50%
 
 footer: >
-    박 대웅 (Park DaeWoong) 01068006273 pppdw@sejongtelecom.net
+    박 대웅 (Park DaeWoong) 01068006273 dwpark.dev@gmail.com
