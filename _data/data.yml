@@ -37,6 +37,18 @@ career-profile:
       안녕하세요, 현재 IBank DigitalWorks 에서 대리로 근무하고 있는 6년차 개발자, 박 대웅 입니다.
       업무에 있어 +1 이상이 될 지 언정, -1은 절대 되지 않는다고 자신있게 말씀 드릴 수 있습니다.        
 
+projects-wallavu:
+    title: Wallavu Apk Published
+    intro: >
+      Wallavu Apk 배포를 위한 페이지 입니다.
+
+    assignments:
+      - title: Wallavu 1.0.0
+        link: "projects/ibank/forever21"
+        time: 2020.05.15
+        thumb: wallavu.png
+        tagline: 버그 및 이슈 수정
+
 projects-ibank:
     title: Projects by IBank
     intro: >
