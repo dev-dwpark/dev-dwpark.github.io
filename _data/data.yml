@@ -35,7 +35,7 @@ projects-wallavu:
 
     assignments:
       - title: Wallavu 1.0.1
-        link: "wallavu/1.01"
+        link: "wallavu/1.0.1"
         time: 2020.05.18
         thumb: wallavu.png
         tagline: 이슈 수정
