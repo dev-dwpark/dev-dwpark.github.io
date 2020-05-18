@@ -38,7 +38,7 @@ projects-wallavu:
         link: "wallavu/1.0.1"
         time: 2020.05.18
         thumb: wallavu.png
-        tagline: 이슈 수정
+        tagline: 이슈 수정 및 배포
 
       - title: Wallavu 1.0.0
         link: "wallavu/1.0.0"
