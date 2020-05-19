@@ -1,4 +1,4 @@
-## [Wallavu 1.0.2 Download (Click) ](https://dl.dropbox.com/s/xw5kqsk4g21rw8s/wallavu_debug_1.0.2.apk) 
+## [Wallavu 1.0.2 Download (Click) ](https://dl.dropbox.com/s/ejk7jso4cbfsfrd/wallavu_debug_1.0.2.apk) 
 
 
 ### 배포 일시
@@ -11,5 +11,5 @@
 - 폰트 및 레이어 테스트(메인(홈))
 
 ### 특이사항
-- 폰트 및 레이어 확인 용
+- 폰트 및 레이어 확인 용 앱
 
