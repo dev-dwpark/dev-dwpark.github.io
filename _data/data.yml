@@ -34,6 +34,12 @@ projects-wallavu:
       Wallavu Apk 배포를 위한 페이지 입니다.
 
     assignments:
+- title: Wallavu 2.0.1
+        link: "wallavu/2.0.1_1"
+        time: 2020.07.09
+        thumb: wallavu.png
+        tagline: 이슈 수정 및 배포
+
       - title: Wallavu 1.0.6_6
         link: "wallavu/1.0.6_6"
         time: 2020.07.07
