@@ -1,4 +1,4 @@
-## [Wallavu 2.0.4 Download (Click) ](https://dl.dropbox.com/s/as5zw2p3klexyq5/wallavu_stg_2.0.4.apk) 
+## [Wallavu 2.0.4 Download (Click) ](https://dl.dropbox.com/s/pr7xs527a6pv6hi/wallavu_stg_2.0.4.apk) 
 
 
 ### 배포 일시
@@ -8,6 +8,9 @@
 - 2차 오픈 대응
 
 ### 작업 사항
+- 색상 필터 적용 시, 컬러칩 옆에 옵션 명 노출되지 않는 현상 수정
+- 컬러칩,옵션 더보기 에 대한 링크 재 정의
+- 브랜드 필터의 더미 스크롤 영역 제거
 - (검토요청) https://redmine.wallavu.com/issues/79
 - (작업완료) https://redmine.wallavu.com/issues/126
 - (작업완료) https://redmine.wallavu.com/issues/127
