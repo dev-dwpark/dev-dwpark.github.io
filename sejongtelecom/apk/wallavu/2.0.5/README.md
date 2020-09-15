@@ -1,4 +1,4 @@
-## [Wallavu 2.0.5 Download (Click) ](https:/dl.dropbox.com/s/99mgi3fp26sy25o/wallavu_stg_2.0.5.apk) 
+## [Wallavu 2.0.5 Download (Click) ](https://dl.dropbox.com/s/99mgi3fp26sy25o/wallavu_stg_2.0.5.apk) 
 
 
 ### 배포 일시
