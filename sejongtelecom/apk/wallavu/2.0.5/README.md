@@ -1,4 +1,4 @@
-## [Wallavu 2.0.5 Download (Click) ](https://dl.dropbox.com/s/b2p4b6n18e1wj13/wallavu_stg_2.0.5.apk) 
+## [Wallavu 2.0.5 Download (Click) ](https:/dl.dropbox.com/s/99mgi3fp26sy25o/wallavu_stg_2.0.5.apk) 
 
 
 ### 배포 일시
@@ -13,6 +13,7 @@
 - 탭 셀렉터 추가
 
 ### 작업 사항
+- https://redmine.wallavu.com/issues/49
 - https://redmine.wallavu.com/issues/149
 - https://redmine.wallavu.com/issues/146
 - https://redmine.wallavu.com/issues/144
