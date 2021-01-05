@@ -1,0 +1,44 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: SejongTelecom
+    tagline: Wallavu Published
+    avatar: wallavu.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: pppdw@sejongtelecom.net
+    phone: 
+    website: 
+    linkedin: 
+    github: 
+    gitlab: 
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    interests:
+      - item:
+        link:
+
+projects-wallavu:
+    title: Wallavu Apk Published
+    intro: >
+      Wallavu Apk 배포를 위한 페이지 입니다.
+
+    assignments:
+      - title: Wallavu 2.0.6
+        link: "wallavu/2.0.6"
+        time: 2020.11.03
+        thumb: wallavu.png
+        tagline: 오픈 검수
+
+footer: >
+    박 대웅 pppdw@sejongtelecom.net
